@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @onthebigtree
-- 👀 I’m interested in JAVA、Blockchain especially DEFI
-- 🌱 I’m currently learning OS LINUX
-- 📫 How to reach me treething@foxmail.com
+The beauty of the world needs my talent 
 
-## The above are all joking, I'm actually an idiot
+📫 huantian233@gmail.com
